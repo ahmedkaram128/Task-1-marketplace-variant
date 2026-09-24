@@ -1,0 +1,6 @@
+i want these api requests on postman: 
+Delete -> delete -> req.params.id
+GET -> getAll
+GET -> get by id -> req.params.id
+POST -> write on DB -> req.body
+PATCH -> update -> req.body + req.params.id
